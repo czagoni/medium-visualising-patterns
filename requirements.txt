@@ -1,0 +1,4 @@
+jupyter==1.0.0
+matplotlib==3.3.4
+notebook==6.2.0
+pandas==1.2.2
